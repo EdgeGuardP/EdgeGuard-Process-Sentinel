@@ -1,7 +1,3 @@
-
-![image](https://github.com/EdgeGuardP/EdgeGuard-Process-Sentinel/assets/127977328/9005fa1b-354b-4c80-ba0e-9a1cb8b84de8)
-
-
 | Feature/OS      | Windows | 
 |-----------------|---------|
 | Detection Injected Processes | ✔ | 
@@ -52,3 +48,7 @@ Contributions to EdgeGuard Process Sentinel are welcome! If you have any ideas, 
 ## License
 
 EdgeGuard Process Sentinel is released under the [MIT License](LICENSE), which means it is free and open-source software. You are welcome to use, modify, and distribute the software according to the terms of the license.
+
+
+![image](https://github.com/EdgeGuardP/EdgeGuard-Process-Sentinel/assets/127977328/9005fa1b-354b-4c80-ba0e-9a1cb8b84de8)
+
