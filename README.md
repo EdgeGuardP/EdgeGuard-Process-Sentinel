@@ -10,7 +10,6 @@
 
 - **Process Termination**: Users can select and terminate suspicious processes directly from the application. Killing a suspicious process helps ensure the security and stability of the system.
 
-- **Refresh Functionality**: The application offers a convenient refresh button to update the process list, providing the latest information on running processes.
 
 ## Why Use EdgeGuard Process Sentinel?
 
