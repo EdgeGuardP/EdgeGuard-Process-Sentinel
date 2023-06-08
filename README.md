@@ -1,6 +1,6 @@
 # EdgeGuard Process Sentinel
 
-**EdgeGuard Process Sentinel** is a lightweight and user-friendly process monitoring and management tool built using the Fyne framework. It provides an intuitive interface for users to view and manage running processes on their Windows machines.
+**EdgeGuard Process Sentinel** is a lightweight and user-friendly process monitoring and management tool. It provides an intuitive interface for users to view and manage running processes on their Windows machines.
 
 ## Features
 
