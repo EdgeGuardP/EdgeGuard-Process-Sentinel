@@ -1,3 +1,13 @@
+
+![image](https://github.com/EdgeGuardP/EdgeGuard-Process-Sentinel/assets/127977328/9005fa1b-354b-4c80-ba0e-9a1cb8b84de8)
+
+
+| Feature/OS      | Windows | 
+|-----------------|---------|
+| Detection Injected Processes | ✔ | 
+| Detection RunPE Injected Processes | ✔ | 
+| Clean System Easily | ✔ | 
+
 # EdgeGuard Process Sentinel
 
 **EdgeGuard Process Sentinel** is a lightweight and user-friendly process monitoring and management tool. It provides an intuitive interface for users to view and manage running processes on their Windows machines.
