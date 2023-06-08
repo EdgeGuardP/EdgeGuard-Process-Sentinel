@@ -35,8 +35,6 @@
 
 - **Real-Time Monitoring**: The application provides real-time monitoring of running processes, ensuring users have up-to-date information about their system's activity.
 
-- **Open-Source and Customizable**: EdgeGuard Process Sentinel is an open-source project, allowing users to explore and customize the application to meet their specific needs.
-
 ## Getting Started
 
 To get started with EdgeGuard Process Sentinel, simply download the latest release from the GitHub repository and run the executable file on your Windows machine. The application provides an intuitive interface to explore running processes, identify suspicious ones, and terminate them if necessary.
