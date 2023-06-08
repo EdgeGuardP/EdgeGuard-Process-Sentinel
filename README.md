@@ -8,6 +8,14 @@
 | Detection RunPE Injected Processes | ✔ | 
 | Clean System Easily | ✔ | 
 
+
+
+| Future Plans    | Windows | 
+|-----------------|---------|
+| Checking If Process Is Started From Original Path | ⚠️ | 
+| Automatically Scan On Virustotal | ⚠️ | 
+| Warning/Notification System | ⚠️ | 
+
 # EdgeGuard Process Sentinel
 
 **EdgeGuard Process Sentinel** is a lightweight and user-friendly process monitoring and management tool. It provides an intuitive interface for users to view and manage running processes on their Windows machines.
